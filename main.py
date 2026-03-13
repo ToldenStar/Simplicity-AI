@@ -1,4 +1,4 @@
-# This is a simple AI it may improved in the future.
+# This is a simple AI it may improve in the future.
 
 
 # Respond function
